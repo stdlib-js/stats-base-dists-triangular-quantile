@@ -30,10 +30,14 @@ The [quantile function][quantile-function] for a [Triangular][triangular-distrib
 
 <!-- <equation class="equation" label="eq:triangular_quantile_function" align="center" raw="Q(p;a,b,c) = \begin{cases} a + \sqrt{(b-a)(c-a)p} & \text{ for } 0 \le p \le F(c) \\ b - \sqrt{(b-a)(b-c)(1-p)} & \text{ for } F(c) \le p \le 1 \end{cases}" alt="Quantile function for a triangular distribution."> -->
 
-<div class="equation" align="center" data-raw-text="Q(p;a,b,c) = \begin{cases} a + \sqrt{(b-a)(c-a)p} &amp; \text{ for } 0 \le p \le F(c) \\ b - \sqrt{(b-a)(b-c)(1-p)} &amp; \text{ for } F(c) \le p \le 1 \end{cases}" data-equation="eq:triangular_quantile_function">
+```math
+Q(p;a,b,c) = \begin{cases} a + \sqrt{(b-a)(c-a)p} & \text{ for } 0 \le p \le F(c) \\ b - \sqrt{(b-a)(b-c)(1-p)} & \text{ for } F(c) \le p \le 1 \end{cases}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="Q(p;a,b,c) = \begin{cases} a + \sqrt{(b-a)(c-a)p} &amp; \text{ for } 0 \le p \le F(c) \\ b - \sqrt{(b-a)(b-c)(1-p)} &amp; \text{ for } F(c) \le p \le 1 \end{cases}" data-equation="eq:triangular_quantile_function">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/triangular/quantile/docs/img/equation_triangular_quantile_function.svg" alt="Quantile function for a triangular distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -235,7 +239,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
