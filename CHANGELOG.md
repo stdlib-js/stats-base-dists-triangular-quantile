@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-03-07)
+
+<section class="features">
+
+### Features
+
+-   [`3ee60b4`](https://github.com/stdlib-js/stdlib/commit/3ee60b4370969d787a3446b90b276f74bc2f9cb3) - add C implementation for `stats/base/dists/triangular/quantile` [(#4307)](https://github.com/stdlib-js/stdlib/pull/4307)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3821](https://github.com/stdlib-js/stdlib/issues/3821)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3ee60b4`](https://github.com/stdlib-js/stdlib/commit/3ee60b4370969d787a3446b90b276f74bc2f9cb3) - **feat:** add C implementation for `stats/base/dists/triangular/quantile` [(#4307)](https://github.com/stdlib-js/stdlib/pull/4307) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
