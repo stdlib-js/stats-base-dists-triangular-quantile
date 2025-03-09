@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-07)
+## Unreleased (2025-03-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2a46bc7`](https://github.com/stdlib-js/stdlib/commit/2a46bc7f9419e7b629197f54377d1181e2a236b4) - **refactor:** avoid unnecessary computation _(by Athan Reines)_
 -   [`3ee60b4`](https://github.com/stdlib-js/stdlib/commit/3ee60b4370969d787a3446b90b276f74bc2f9cb3) - **feat:** add C implementation for `stats/base/dists/triangular/quantile` [(#4307)](https://github.com/stdlib-js/stdlib/pull/4307) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 
 </details>
@@ -46,8 +47,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
