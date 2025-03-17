@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-09)
+## Unreleased (2025-03-17)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3821](https://github.com/stdlib-js/stdlib/issues/3821)
+[#3821](https://github.com/stdlib-js/stdlib/issues/3821), [#5897](https://github.com/stdlib-js/stdlib/issues/5897)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`04c3454`](https://github.com/stdlib-js/stdlib/commit/04c34541dd27ecad16ba67f3ce455acdc9b7cef6) - **chore:** address commit comments [(#5941)](https://github.com/stdlib-js/stdlib/pull/5941) _(by Pulkit Gupta)_
 -   [`2a46bc7`](https://github.com/stdlib-js/stdlib/commit/2a46bc7f9419e7b629197f54377d1181e2a236b4) - **refactor:** avoid unnecessary computation _(by Athan Reines)_
 -   [`3ee60b4`](https://github.com/stdlib-js/stdlib/commit/3ee60b4370969d787a3446b90b276f74bc2f9cb3) - **feat:** add C implementation for `stats/base/dists/triangular/quantile` [(#4307)](https://github.com/stdlib-js/stdlib/pull/4307) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 
@@ -47,11 +48,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
+-   Pulkit Gupta
 
 </section>
 
