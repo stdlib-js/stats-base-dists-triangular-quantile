@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-24)
+## Unreleased (2026-09-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`dfbd4c5`](https://github.com/stdlib-js/stdlib/commit/dfbd4c5c8225ca2b7b3c9d04b251b4f978673d22) - **test:** migrate `stats/base/dists/triangular/quantile` to ULP-based assertions [(#15354)](https://github.com/stdlib-js/stdlib/pull/15354) _(by Aryan kumar)_
 -   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
 -   Athan Reines
 -   anee3
 
