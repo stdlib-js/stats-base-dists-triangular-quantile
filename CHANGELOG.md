@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-16)
+## Unreleased (2026-11-26)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`a3e3463`](https://github.com/stdlib-js/stdlib/commit/a3e346300a2855a4a1bfb48c31f588db0f515121) - **style:** add whitespace [(#15394)](https://github.com/stdlib-js/stdlib/pull/15394) _(by Philipp Burckhardt)_
 -   [`dfbd4c5`](https://github.com/stdlib-js/stdlib/commit/dfbd4c5c8225ca2b7b3c9d04b251b4f978673d22) - **test:** migrate `stats/base/dists/triangular/quantile` to ULP-based assertions [(#15354)](https://github.com/stdlib-js/stdlib/pull/15354) _(by Aryan kumar)_
 -   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
